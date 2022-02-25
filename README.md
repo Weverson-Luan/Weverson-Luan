@@ -28,3 +28,7 @@ Meu Nome é Weverson Luan De Sousa, Atualmente Sou Dev Fullstack, Trabalho  com 
 
 ## Pouco mais sobre min 
 Apoixonado por desenvolver soluçãoes que impacta a vida de milhões de usuários. Em meus tempos livres sempre to estudando ou vendo um curso, mais sempre vendo algo para esta me aperfeiçoado cada vez mais nas tecnologias que utilizo no meu dia a dia e livre para aprender outras. 👨‍💻
+
+## Linguagens mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weverson-Luan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
